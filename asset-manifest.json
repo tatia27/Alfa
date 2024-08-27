@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Alfa/static/css/main.3cd95f6d.css",
+    "main.js": "/Alfa/static/js/main.522ac99c.js",
+    "static/js/453.02bcce56.chunk.js": "/Alfa/static/js/453.02bcce56.chunk.js",
+    "static/media/delete.svg": "/Alfa/static/media/delete.dd918892577c9e38fb33e6e8fb239804.svg",
+    "static/media/like.svg": "/Alfa/static/media/like.21b1f57d19846553ed01516e896b7891.svg",
+    "static/media/unlike.svg": "/Alfa/static/media/unlike.415e1f091e180ad8d60f04fb7ce18e34.svg",
+    "index.html": "/Alfa/index.html",
+    "main.3cd95f6d.css.map": "/Alfa/static/css/main.3cd95f6d.css.map",
+    "main.522ac99c.js.map": "/Alfa/static/js/main.522ac99c.js.map",
+    "453.02bcce56.chunk.js.map": "/Alfa/static/js/453.02bcce56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd95f6d.css",
+    "static/js/main.522ac99c.js"
+  ]
+}
